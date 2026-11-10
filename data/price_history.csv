@@ -1,0 +1,37 @@
+﻿product_id,product_name,store,price,recorded_date,category,brand,source
+P010,Apple Watch SE GPS 40mm,Amazon,25900.0,2026-07-02,Smartwatch,Apple,historical_seed
+P010,Apple Watch SE GPS 40mm,Flipkart,25900.0,2026-07-02,Smartwatch,Apple,historical_seed
+P004,Google Pixel 9a (256GB),Amazon,43953.0,2026-07-02,Smartphone,Google,historical_seed
+P004,Google Pixel 9a (256GB),Flipkart,49999.0,2026-07-02,Smartphone,Google,historical_seed
+P005,HP Victus i7,Amazon,99990.0,2026-07-02,Laptop,HP,historical_seed
+P005,HP Victus i7,Flipkart,114000.0,2026-07-02,Laptop,HP,historical_seed
+P006,Lenovo LOQ 2024 i5,Amazon,103990.0,2026-07-02,Laptop,Lenovo,historical_seed
+P006,Lenovo LOQ 2024 i5,Flipkart,80990.0,2026-07-02,Laptop,Lenovo,historical_seed
+P009,Logitech M331 Silent Plus,Amazon,1295.0,2026-07-02,Accessories,Logitech,historical_seed
+P009,Logitech M331 Silent Plus,Flipkart,1295.0,2026-07-02,Accessories,Logitech,historical_seed
+P003,OnePlus 13 (256GB),Amazon,54999.0,2026-07-02,Smartphone,OnePlus,historical_seed
+P003,OnePlus 13 (256GB),Flipkart,66499.0,2026-07-02,Smartphone,OnePlus,historical_seed
+P002,Samsung Galaxy S25,Amazon,62999.0,2026-07-02,Smartphone,Samsung,historical_seed
+P002,Samsung Galaxy S25,Flipkart,80999.0,2026-07-02,Smartphone,Samsung,historical_seed
+P008,Sony WH-CH520,Amazon,4328.0,2026-07-02,Headphones,Sony,historical_seed
+P008,Sony WH-CH520,Flipkart,4328.0,2026-07-02,Headphones,Sony,historical_seed
+P001,iPhone 17 Pro Max 1 TB,Amazon,189900.0,2026-07-02,Smartphone,Apple,historical_seed
+P001,iPhone 17 Pro Max 1 TB,Flipkart,177900.0,2026-07-02,Smartphone,Apple,historical_seed
+P010,Apple Watch SE GPS 40mm,Flipkart,25900.0,2026-07-12,Smartwatch,Apple,historical_seed
+P004,Google Pixel 9a (256GB),Amazon,44640.0,2026-07-12,Smartphone,Google,historical_seed
+P004,Google Pixel 9a (256GB),Flipkart,49999.0,2026-07-12,Smartphone,Google,historical_seed
+P005,HP Victus i7,Amazon,103990.0,2026-07-12,Laptop,HP,historical_seed
+P005,HP Victus i7,Flipkart,93999.0,2026-07-12,Laptop,HP,historical_seed
+P006,Lenovo LOQ 2024 i5,Amazon,101990.0,2026-07-12,Laptop,Lenovo,historical_seed
+P006,Lenovo LOQ 2024 i5,Flipkart,76990.0,2026-07-12,Laptop,Lenovo,historical_seed
+P009,Logitech M331 Silent Plus,Amazon,1295.0,2026-07-12,Accessories,Logitech,historical_seed
+P009,Logitech M331 Silent Plus,Flipkart,1145.0,2026-07-12,Accessories,Logitech,historical_seed
+P003,OnePlus 13 (256GB),Amazon,57999.0,2026-07-12,Smartphone,OnePlus,historical_seed
+P003,OnePlus 13 (256GB),Flipkart,69349.0,2026-07-12,Smartphone,OnePlus,historical_seed
+P002,Samsung Galaxy S25,Amazon,69699.0,2026-07-12,Smartphone,Samsung,historical_seed
+P002,Samsung Galaxy S25,Flipkart,80999.0,2026-07-12,Smartphone,Samsung,historical_seed
+P008,Sony WH-CH520,Flipkart,2989.0,2026-07-12,Headphones,Sony,historical_seed
+P007,boAt Airdopes 181,Amazon,1499.0,2026-07-12,Earbuds,boAt,historical_seed
+P007,boAt Airdopes 181,Flipkart,1499.0,2026-07-12,Earbuds,boAt,historical_seed
+P001,iPhone 17 Pro Max 1 TB,Amazon,119900.0,2026-07-12,Smartphone,Apple,historical_seed
+P001,iPhone 17 Pro Max 1 TB,Flipkart,187900.0,2026-07-12,Smartphone,Apple,historical_seed
