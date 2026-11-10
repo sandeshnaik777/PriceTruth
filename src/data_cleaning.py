@@ -38,14 +38,24 @@ def clean_price_value(value):
     
     # If string, strip whitespace and formatting characters
     val_str = str(value).strip()
-    # Remove symbols like ₹, Rs, Rs., comma, whitespace
-    cleaned = re.sub(r"[^\d.]", "", val_str)
     
-    try:
-        num = float(cleaned)
-        return num if num > 0 else np.nan
-    except (ValueError, TypeError):
-        return np.nan
+    # Remove currency abbreviations like "Rs." or "Rs"
+    val_clean = re.sub(r"(?i)\brs\.?\b", "", val_str)
+    # Remove currency symbols and whitespace
+    val_clean = re.sub(r"[₹$€£\s]", "", val_clean)
+    # Remove commas (Indian & international thousands separators)
+    val_clean = val_clean.replace(",", "")
+    
+    # Extract clean numeric string with optional decimal point
+    match = re.search(r"\d+(\.\d+)?", val_clean)
+    if match:
+        try:
+            num = float(match.group(0))
+            return num if num > 0 else np.nan
+        except (ValueError, TypeError):
+            return np.nan
+            
+    return np.nan
 
 
 def clean_date_string(date_val):
