@@ -244,3 +244,4 @@ st.caption("""
 Tracks the movement of the average portfolio price on recorded scrape dates.
 As additional observations are added through the *Add Price Observation* tool, this trend will dynamically extend across longer time horizons.
 """)
+

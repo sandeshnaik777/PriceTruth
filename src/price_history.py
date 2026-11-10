@@ -344,3 +344,4 @@ def create_category_distribution_chart(category_stats_df):
         margin=dict(l=40, r=40, t=50, b=40)
     )
     return fig
+

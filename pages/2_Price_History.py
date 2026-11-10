@@ -217,3 +217,4 @@ with st.expander("📋 View Raw Historical Records Table"):
     
     display_df["price"] = display_df["price"].apply(lambda p: f"₹{p:,.2f}")
     st.dataframe(display_df, use_container_width=True, hide_index=True)
+

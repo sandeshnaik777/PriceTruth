@@ -145,3 +145,4 @@ if __name__ == "__main__":
     df_hist = load_raw_price_history()
     report_hist = inspect_dataframe(df_hist, "Raw Price History")
     print_inspection_report(report_hist)
+

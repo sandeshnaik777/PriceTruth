@@ -275,3 +275,4 @@ else:
                     st.switch_page("pages/2_Price_History.py")
                     
             st.markdown("<hr style='margin: 0.8rem 0; border: 0.5px solid #F3F4F6;'>", unsafe_allow_html=True)
+

@@ -158,3 +158,4 @@ if not updated_history.empty:
     st.dataframe(display_recent, use_container_width=True, hide_index=True)
 else:
     st.write("No price observations recorded yet.")
+

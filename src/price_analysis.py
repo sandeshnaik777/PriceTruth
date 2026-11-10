@@ -414,3 +414,4 @@ if __name__ == "__main__":
         p_summary = get_product_historical_summary("P001", h_df, current_price=119900.0)
         print("\nP001 Summary Stats:", p_summary["overall_stats"])
         print("P001 Insight:", p_summary["insight"])
+
